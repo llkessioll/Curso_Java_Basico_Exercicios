@@ -24,7 +24,7 @@ public class Exer06 {
 		
 		while(true) {
 			
-			System.out.println(" ============= JOGO DA VELHA =============");
+			System.out.println("============= JOGO DA VELHA =============");
 			System.out.println("Jogador UM = O");
 			System.out.println("Jogador DOIS = X");
 			
