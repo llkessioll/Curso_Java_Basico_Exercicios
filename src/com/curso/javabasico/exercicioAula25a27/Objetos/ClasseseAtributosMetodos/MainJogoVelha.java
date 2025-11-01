@@ -14,8 +14,6 @@ public class MainJogoVelha {
 		
 		boolean jogadaValida;
 		
-		String jogadorUm = "X";
-		String jogadorDois = "O";
 		String jogador;
 		String ganhador;
 		
@@ -74,7 +72,7 @@ public class MainJogoVelha {
 			
 		}
 		
-		
+		teclado.close();
 	}
 	
 	
