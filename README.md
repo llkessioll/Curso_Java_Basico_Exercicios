@@ -55,8 +55,15 @@ src/
 
 └── exercicioAula34/
 
-└── metodos_estaticos
+│ └── metodos_estaticos
 
+└── exercicioAula35/
+
+│ └── metodos_recursivos
+
+└── exercicioAula36
+
+│ └── relacionamento_entre_classes
 
 ---
 
