@@ -65,6 +65,10 @@ src/
 
 │ └── relacionamento_entre_classes
 
+└── exercicioAula46
+
+│ └── Interfaces
+
 ---
 
 ## ▶️ Como Executar os Exercícios
@@ -73,7 +77,7 @@ src/
 
 git clone https://github.com/llkessioll/Curso_Java_Basico_Exercicios.git
 
-3. Abra o projeto em uma IDE Java:
+2. Abra o projeto em uma IDE Java:
 
 Eclipse
 
