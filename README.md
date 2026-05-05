@@ -69,6 +69,10 @@ src/
 
 │ └── Interfaces
 
+└── exercicioAula52
+
+│ └── Exceptions
+
 ---
 
 ## ▶️ Como Executar os Exercícios
